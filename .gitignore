@@ -1,0 +1,46 @@
+# 🔹 Python cache files
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# 🔹 Environment variables (IMPORTANT)
+
+.env
+
+# 🔹 System files
+
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+
+*.log
+
+# 🔹 Temporary files
+
+*.tmp
+*.temp
+
+# 🔹 IDE / Editor files
+
+.vscode/
+.idea/
+
+# 🔹 Project-specific files
+
+PyWhatKit_DB.txt
+screenshot.png
+todo.txt
+
+# 🔹 API keys / secrets (extra safety)
+
+config.py
+secrets.py
